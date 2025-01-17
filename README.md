@@ -29,17 +29,9 @@ After creating your own copy of this repository, you can edit or delete existing
 <!--If reusing this repository, delete this section -->
 ## About README
 
-On an online repository, such as GitHub, the project overview page is named ‘README’ which is equivalent to the main page of a website.
-README page should describe the project -- what is the purpose of the project, who is involved, how to collaborate and where to find key resources.
-
-To learn more about how to create a README.md file, please read the [Landing Page - README File](https://the-turing-way.netlify.app/project-design/project-repo/project-repo-readme.html) chapter in The Turing Way Guide for Project Design.
-
-When reusing, you can delete most content written here, and use this MarkDown template to add content about your project:
-
-```
 # Project Quick Start
 
-*Add Badges/GitHub shields, which are clickable buttons that provide concise actions related to the project.*
+*https://github.com/Simplice94/Projet-IENR-AFRO-ULAVAL.*
 
 *A sentence summarising what to expect from this repository*  
 
