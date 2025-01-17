@@ -114,9 +114,13 @@ Inspired by [Cookie Cutter Data Science](https://github.com/drivendata/cookiecut
 **Maintainers**
 
 Le projet IENR-Afro-ULaval vise à répondre aux besoins spécifiques des étudiants et étudiantes originaires d’Afrique subsaharienne et des Caraïbes (oAC) face aux défis d’accès aux infrastructures numériques, qui peuvent influencer la durée de leurs études, la qualité de leurs recherches, et même leurs carrières futures. Ce projet a été conçu pour offrir des outils et des ressources afin de pallier les obstacles rencontrés dans la gestion des données numériques de recherche grâce à un programme de formation et de mentorat par les pairs.
-As an open source repository, anyone beyond these teams is very welcome to reuse this template for setting up their projects.
 
-*Please create [an issue](../../issues) to share references or ideas related to the development of this project.*
+
+
+
+
+
+
 
 🎯 Roadmap
 ---
