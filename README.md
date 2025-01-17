@@ -1,7 +1,7 @@
 
 *Le projet IENR-Afro-ULaval vise à répondre aux besoins spécifiques des étudiants et étudiantes originaires d’Afrique subsaharienne et des Caraïbes (oAC) face aux défis d’accès aux infrastructures numériques, qui peuvent influencer la durée de leurs études, la qualité de leurs recherches et même leurs carrières futures.
 
-Calendrier des activites 
+Vue globale du projet  
 
 1- Création d’un forum d’échange : un espace d’échange et de partage d’expériences, où vous pourrez poser des questions et bénéficier du soutien de vos pairs.  
 2- Rencontres de réseautage et mentorat interne : une opportunité pour élargir vos contacts et rencontrer des experts et expertes du domaine et enrichir votre parcours académique et professionnel. 
