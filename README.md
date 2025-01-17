@@ -3,15 +3,10 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-*This is a template for setting up a research or data science project online, such as on GitHub.*
+*Le projet IENR-Afro-ULaval vise à répondre aux besoins spécifiques des étudiants et étudiantes originaires d’Afrique subsaharienne et des Caraïbes (oAC) face aux défis d’accès aux infrastructures numériques, qui peuvent influencer la durée de leurs études, la qualité de leurs recherches et même leurs carrières futures.*
 
 ## About this Repository
-
-This repository operationalises The Turing Way recommendations for structuring project repositories to support reproducibility in data science projects.
-This repository includes files and directories recommended for enabling reproducibility and collaboration in a project, as well as sharing of research objects.
-
-This repository follows the recommendations and guidance provided in *[The Turing Way](https://the-turing-way.netlify.app/welcome)* handbook to data science.
-When reusing this repository, please update the information on your README page with information about your project.
+Ce projet a été conçu pour offrir des outils et des ressources afin de pallier les obstacles rencontrés dans la gestion des données numériques de recherche grâce à un programme de formation et de mentorat par les pairs.
 
 ### Using this Repository
 
