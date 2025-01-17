@@ -42,7 +42,14 @@ Motivation and background in a nutshell.
 
 ## The Team
 
-- **Members:** List of team members and their roles in the project.
+- **Members:**
+- Simplice Eclador Nouboudem Basso
+- Coodonateur de projet
+- MD,MSC
+
+- Amede Gogovor
+- Enseignant surperviseur
+- professeur Adjoint sous-octroit
 - **Roles & Responsibilities:** [Team Directory](link-to-directory) outlines roles, responsibilities and their ways of working.
 
 ## Contributing
