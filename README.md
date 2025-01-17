@@ -2,9 +2,13 @@
 *Le projet IENR-Afro-ULaval vise à répondre aux besoins spécifiques des étudiants et étudiantes originaires d’Afrique subsaharienne et des Caraïbes (oAC) face aux défis d’accès aux infrastructures numériques, qui peuvent influencer la durée de leurs études, la qualité de leurs recherches et même leurs carrières futures.
 
 Your streamlined project setup is just three steps away:
-* Step 1: Click 'Use this template' on the top right-hand side. Follow it up by clicking 'Create a new repository.'
-* Step 2: In the subsequent window, set the 'owner' (yourself or a GitHub organisation) and give your project repository a descriptive name.
-* Step 3: Finalise by clicking 'Create repository' at the bottom right-hand side.
+Création d’un forum d’échange : un espace d’échange et de partage d’expériences, où vous pourrez poser des questions et bénéficier du soutien de vos pairs.  
+Rencontres de réseautage et mentorat interne : une opportunité pour élargir vos contacts et rencontrer des experts et expertes du domaine et enrichir votre parcours académique et professionnel. 
+
+Formation en gestion des données numériques : deux séances de formation menées par des experts et expertes pour vous familiariser avec les outils numériques clés de la recherche (décembre 2024 et janvier 2025)
+
+Sondage final : pour recueillir vos impressions améliorer les initiatives futures
+
 
 After creating your own copy of this repository, you can edit or delete existing files and folders, or add new ones as per your needs.
 
