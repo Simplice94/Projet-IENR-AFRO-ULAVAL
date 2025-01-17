@@ -44,8 +44,7 @@ Motivation and background in a nutshell.
 
 ## Licensing
 
-Clearly define the license under which the repository's work is shared.
-(Example: This project is licensed under the MIT License - see the LICENSE.md file for details.)
+This project is licensed under the MIT License - see the LICENSE.md file for details.)
 
 ## Citing & Acknowledgement
 
