@@ -48,7 +48,7 @@ Motivation and background in a nutshell.
 
 - Amede Gogovor.
   Enseignant surperviseur.
-  professeur Adjoint sous-octroit
+  professeur adjoint sous-octroi
   
 - **Roles & Responsibilities:** [Team Directory](link-to-directory) outlines roles, responsibilities and their ways of working.
 
