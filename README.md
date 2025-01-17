@@ -1,5 +1,7 @@
+Inclusion et Équité numérique en recherche pour les étudiants chercheurs et chercheuses originaires d’Afrique subsaharienne et des Caraïbes de l’Université Laval 
+(IENR-Afro-ULaval). 
 
-*Le projet IENR-Afro-ULaval vise à répondre aux besoins spécifiques des étudiants et étudiantes originaires d’Afrique subsaharienne et des Caraïbes (oAC) face aux défis d’accès aux infrastructures numériques, qui peuvent influencer la durée de leurs études, la qualité de leurs recherches et même leurs carrières futures.
+Le projet IENR-Afro-ULaval vise à répondre aux besoins spécifiques des étudiants et étudiantes originaires d’Afrique subsaharienne et des Caraïbes (oAC) face aux défis d’accès aux infrastructures numériques, qui peuvent influencer la durée de leurs études, la qualité de leurs recherches et même leurs carrières futures.
 
 Vue globale du projet  
 
@@ -20,7 +22,9 @@ After creating your own copy of this repository, you can edit or delete existing
 
 *https://github.com/Simplice94/Projet-IENR-AFRO-ULAVAL.*
 
-*A sentence summarising what to expect from this repository*  
+*Ce projet a été conçu pour offrir des outils et des ressources afin de pallier
+les obstacles rencontrés dans la gestion des données numériques de recherche 
+grâce à un programme de formation et de mentorat par les pairs.*  
 
 ## Vision and Mission
 
