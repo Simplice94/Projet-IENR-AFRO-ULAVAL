@@ -49,7 +49,8 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 ## Citing & Acknowledgement
 
 - **Citation Instructions:** How to cite the project.
-- **Acknowledgment:** Amede Gogovor, Lessa tchouho Fabrice, Alliance de recherche numerique du Canada.
+- **Acknowledgment:**
+- Amede Gogovor, Lessa tchouho Fabrice, Alliance de recherche numerique du Canada.
 
 ## Contact
 
