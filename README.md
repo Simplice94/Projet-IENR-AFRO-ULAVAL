@@ -42,12 +42,12 @@ Motivation and background in a nutshell.
 
 ## The Team
 
-- Simplice Eclador Nouboudem Basso
-  Coodonateur de projet
+- Simplice Eclador Nouboudem Basso.
+  Coodonateur de projet.
   MD,MSC
 
-- Amede Gogovor
-  Enseignant surperviseur
+- Amede Gogovor.
+  Enseignant surperviseur.
   professeur Adjoint sous-octroit
   
 - **Roles & Responsibilities:** [Team Directory](link-to-directory) outlines roles, responsibilities and their ways of working.
