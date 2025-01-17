@@ -1,7 +1,7 @@
 ---
 name: "\u2728 General"
 about: Have an idea for the project?
-title:
+title:IENR-Afro-ULaval
 labels:
 assignees: ''
 
