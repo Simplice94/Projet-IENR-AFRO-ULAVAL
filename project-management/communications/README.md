@@ -2,7 +2,7 @@
 
 Here are recommendations of directories (main bullet points) and files (sub-bullet points) that can be shared within the `communications` folder of a project repository.
 
-* [ ] Communications channels
+* [ ] Communications channels Microsoft teams, medias sociaux, 
 * [ ] Onboarding materials
 * [ ] Meeting notes - provide a template
 * [ ] Main contacts - be careful of GDPR rules when sharing details
